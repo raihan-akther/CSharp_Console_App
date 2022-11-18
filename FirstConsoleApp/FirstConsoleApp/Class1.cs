@@ -6,5 +6,10 @@ namespace FirstConsoleApp
 {
     class Class1
     {
+        public void callMyClass()
+        {
+            Console.WriteLine("Hello World!");
+        }
+        
     }
 }
